@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ach_prototype", "ach_prototype.csproj", "{928AB03C-9F83-4117-94A3-2F3CBE7DE710}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{928AB03C-9F83-4117-94A3-2F3CBE7DE710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{928AB03C-9F83-4117-94A3-2F3CBE7DE710}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{928AB03C-9F83-4117-94A3-2F3CBE7DE710}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{928AB03C-9F83-4117-94A3-2F3CBE7DE710}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2F93008-5720-4FD8-B0CD-38263DC82062}
+	EndGlobalSection
+EndGlobal
